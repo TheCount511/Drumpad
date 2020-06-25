@@ -130,7 +130,7 @@ input:checked+.switch-slider:before {
 }
 
 
-$body-color: #efebe9;
+/* $body-color: #efebe9;
 $element-color-1: #ca9b52;
 $element-color-2: #c66900;
 $shadow-color-1: #999;
@@ -273,3 +273,4 @@ $font-family: sans-serif;
       box-sizing: border-box;
     }
 }
+ */
