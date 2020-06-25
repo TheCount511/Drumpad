@@ -37,12 +37,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheCount511/Drumpad.git"
+    "url": "git+https://github.com/TheCount511/drumpad.git"
   },
   "author": "Fadhil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheCount511/Drumpad/issues"
+    "url": "https://github.com/TheCount511/drumpad/issues"
   },
   "homepage": "https://thecount511.github.io/drumpad"
 }
