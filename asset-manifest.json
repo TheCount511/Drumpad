@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/drumpad/static/css/main.0ae2f9b5.chunk.css",
-    "main.js": "/drumpad/static/js/main.b7cc46d5.chunk.js",
-    "main.js.map": "/drumpad/static/js/main.b7cc46d5.chunk.js.map",
+    "main.css": "/drumpad/static/css/main.7584b531.chunk.css",
+    "main.js": "/drumpad/static/js/main.4dbd3308.chunk.js",
+    "main.js.map": "/drumpad/static/js/main.4dbd3308.chunk.js.map",
     "runtime-main.js": "/drumpad/static/js/runtime-main.f325e6c5.js",
     "runtime-main.js.map": "/drumpad/static/js/runtime-main.f325e6c5.js.map",
     "static/js/2.20aec3f2.chunk.js": "/drumpad/static/js/2.20aec3f2.chunk.js",
     "static/js/2.20aec3f2.chunk.js.map": "/drumpad/static/js/2.20aec3f2.chunk.js.map",
     "index.html": "/drumpad/index.html",
-    "precache-manifest.dccc9df3bbc13071987249ac6d24205a.js": "/drumpad/precache-manifest.dccc9df3bbc13071987249ac6d24205a.js",
+    "precache-manifest.147f10f19c0e58ef4c105c6ccd5d0ce1.js": "/drumpad/precache-manifest.147f10f19c0e58ef4c105c6ccd5d0ce1.js",
     "service-worker.js": "/drumpad/service-worker.js",
-    "static/css/main.0ae2f9b5.chunk.css.map": "/drumpad/static/css/main.0ae2f9b5.chunk.css.map",
+    "static/css/main.7584b531.chunk.css.map": "/drumpad/static/css/main.7584b531.chunk.css.map",
     "static/js/2.20aec3f2.chunk.js.LICENSE.txt": "/drumpad/static/js/2.20aec3f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f325e6c5.js",
     "static/js/2.20aec3f2.chunk.js",
-    "static/css/main.0ae2f9b5.chunk.css",
-    "static/js/main.b7cc46d5.chunk.js"
+    "static/css/main.7584b531.chunk.css",
+    "static/js/main.4dbd3308.chunk.js"
   ]
 }
